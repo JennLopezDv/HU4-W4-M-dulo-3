@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": "0f51",
+      "nombre": "Portatil",
+      "precio": "52",
+      "cantidad": "1"
+    },
+    {
+      "id": "f2d3",
+      "nombre": "TV",
+      "precio": "15000",
+      "cantidad": "2"
+    },
+    {
+      "id": "bd36",
+      "nombre": "Tablet",
+      "precio": "2500",
+      "cantidad": "1"
+    }
+  ]
+}
